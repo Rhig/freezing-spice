@@ -3,3 +3,7 @@
 #*#
 *.vcd
 *.cf
+*.o
+*_tb
+sim/memio.vec
+sim/regout.vec
